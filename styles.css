@@ -294,6 +294,7 @@ h6 {
 
 #skills {
   display: flex;
+  padding-right: 100px;
   justify-content: space-evenly;
   background-color: var(--previewShadow);
 }
